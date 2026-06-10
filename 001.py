@@ -1,4 +1,7 @@
-a = int(input("ingresa un numero"))
-b = int(input("ingresa un numero"))
-suma = a + b
-print(suma)
+print("calculadora")
+
+#Suma
+num1 = int(input("Ingrese el primer número: "))
+num2 = int(input("Ingrese el segundo número: "))
+r = num1 + num2
+print("La respuesta es", r)
